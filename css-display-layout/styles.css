@@ -1,0 +1,89 @@
+
+header {
+  background-color: #2C2725;
+  color: #FDFBFA;
+  height: 70px;
+  font-family: sans-serif;
+  font-weight: 400;
+
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  font-weight: bold;
+}
+
+.nav-bar {
+  display: inline-block;
+
+
+}
+
+nav {
+  margin-left: 800px;
+
+
+}
+
+.nav-bar a{
+  background-color: #D5D4D3;
+  font-size: 30px;
+  color:#FDFBFA;
+  text-decoration: none;
+
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.subheader h2 {
+  background-color: #85E5D1;
+  color: black;
+  padding: 10px;
+  font-weight: lighter;
+  font-family: sans-serif;
+
+}
+
+.subheader span {
+  font-weight: bold;
+}
+
+.edit-btn {
+  background: #F3E23E;
+  width: 458px;
+  height: 35px;
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: Arial;
+  margin-bottom: 10px;
+  text-align: center;
+
+
+}
+
+.edit-btn a {
+  display: inline-block;
+  color: blue;
+  text-align: center;
+
+
+}
+
+article {
+  column-count: 3;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+footer h2{
+  background-color: #2C2725;
+  height: 30px;
+  padding-top: 10px;
+  color: #FDFBFA;
+  font-size: 15px;
+  text-align: center;
+}
